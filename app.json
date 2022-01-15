@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "المستودع" : "https://github.com/Fawziimostafa/Verdev-Music" ،
+    "repository" : "https://github.com/Fawziimostafa/Verdev-Music" ،
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
